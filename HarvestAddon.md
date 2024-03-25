@@ -1,3 +1,3 @@
-Harvest Part Lookup.
+# Harvest Part Lookup.
 
 We do not collect or handle user data.
